@@ -13,6 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I train in Muay Thai and like music with bpms > 150
 
-  <script src="https://profile.codersrank.io/widget/widget.js"></script>
+[franklyn]("https://profile.codersrank.io/widget/widget.js)
 
 ![Franklyn's github stats](https://github-readme-stats.vercel.app/api?username=franklynr92&theme=material-palenight&show_icons=true&count_private=true)
