@@ -12,10 +12,10 @@
 - 📫 How to reach me: ... franklynr92@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I train in Muay Thai and like music with bpms > 150
-<html>
-  <body>
-   <script src="https://profile.codersrank.io/widget/widget.js"></script>
-</body>
-</html> 
+
+
+
+
+
   
 ![Franklyn's github stats](https://github-readme-stats.vercel.app/api?username=franklynr92&theme=material-palenight&show_icons=true&count_private=true)
