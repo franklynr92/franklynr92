@@ -8,10 +8,9 @@
 - 🌱 I’m currently learning ... to expand my Javascript and Ruby skills with libraries and frameworks
 - 👯 I’m looking to collaborate on ... open source projects 
 - 🤔 I’m looking for help with ... Getting a career as a developer
-- 💬 Ask me about ...Muay Thai, Ruby, Javascript, HTML, CSS, MySQL, RoR, Sinatra, PostGres, React, Redux, Fasting
-- 📫 How to reach me: ... franklynr92@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I train in Muay Thai and like music with bpms > 150
+- 💬 Ask me about ...BJJ, furniture repairs, furniture designs, furniture makeover Ruby, Javascript, HTML, CSS, MySQL, RoR, Sinatra, PostGres, React, Redux, Fasting
+- 📫 How to reach me: ... rodri.franklyn@gmail.com
+- ⚡ Fun fact: ... I train in BJJ and flip furniture
 
 
 
